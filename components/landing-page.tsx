@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Building2, Mail, MapPin, Menu, Phone, X } from "lucide-react"
+import { Building2, Mail, MapPin, Menu, Phone, X, ChevronRight, ArrowRight, Star, Users, Zap, Shield } from 'lucide-react'
 import Image from "next/image"
 import Link from "next/link"
 import { useState, useEffect } from "react"
